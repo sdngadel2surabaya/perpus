@@ -1,0 +1,5 @@
+{
+  "name": "Perpustakaan Org Chart",
+  "description": "A React web application to visualize the organizational chart of a library, styled with Tailwind CSS.",
+  "requestFramePermissions": []
+}
